@@ -61,3 +61,10 @@ Chain DOCKER-ISOLATION (1 references)
 target     prot opt source               destination         
 RETURN     all  --  anywhere             anywhere  
 ```
+
+## Seite anrufen mit 
+- vom Mac aus; curl IP des CoreOs Host (da wir ja alles von 80 auf den docker-container weiterleiten)
+- vom CoreOs host aus: curl IP des docker-containers
+```
+curl 172.17.0.2
+```
