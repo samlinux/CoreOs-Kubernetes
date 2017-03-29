@@ -1,11 +1,9 @@
 # Minikube Installation
 Minikube auf dem Mac installieren. Es wird eine virtualbox VM installiert, welche als cluster verwendet wird. Es werden zwei google tools installiert:
-
 - minikube 
 - kubectl 
 
 Folgende Schritte in einem Verzeichnis ausführen:
-
 - mkdir minikube 
 - cd minikube 
 - curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.17.1/minikube-darwin-amd64 && chmod +x minikube 

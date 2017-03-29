@@ -1,4 +1,4 @@
-# Installation CoreOs Cluster mit 3 nodes auf DigitalOcean
+# Installation CoreOs Cluster mit 3 hosts auf DigitalOcean
 - image auswählen: CoreOs (stable)
 - size auswählen: 1 GB
 - datacenter Region auswählen: Frankfurt
@@ -41,4 +41,6 @@ coreos:
 - die Anzahl der Droplets festlegen: 3
 - Hostname kontrollieren bzw. neu festlegen
 - Button create clicken
+
+Danach werden drei Droplets erzeugt.
 
