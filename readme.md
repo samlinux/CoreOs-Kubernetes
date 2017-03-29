@@ -1,4 +1,5 @@
 # CoreOs und Kubernetes
+Folgende Anleitungen werden im Rahmen einer Seminararbeit an der FH-Burgenland erstellt. Sie dienen der internen Gruppenarbeit und stehen auch allen anderen zur Verfügung, die diese Information nützlich finden. Alle Angaben sind natürlich ohne Gewähr!
 
 [(1) Installation auf virtualbox mit ISO](doc/install.md)  
 [(2) Docker Beispiel - nginx](doc/docker-nginx.md)  
