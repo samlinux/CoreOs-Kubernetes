@@ -4,7 +4,7 @@
 [(2) Docker Beispiel - nginx](doc/docker-nginx.md)  
 [(3) minikube Installation](doc/minikube-install.md)  
 [(4) Installation auf DigitalOcean als Cluster mit 3 hosts](doc/installClusterDo.md)  
-[(3) Demo App as Service via fleetctl](doc/demoService1.md)  
+[(5) Demo App as Service via fleetctl](doc/demoService1.md)  
 
 
 
